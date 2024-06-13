@@ -1,0 +1,9 @@
+br/unipar/pet/dogui/poo/infraestructure/ConnectionFactory.class
+br/unipar/pet/dogui/poo/domain/Pelagem.class
+br/unipar/pet/dogui/poo/PetDoguiPoo.class
+br/unipar/pet/dogui/poo/services/CorService.class
+br/unipar/pet/dogui/poo/respositories/CorRepository.class
+br/unipar/pet/dogui/poo/domain/Raca.class
+br/unipar/pet/dogui/poo/domain/Cor.class
+br/unipar/pet/dogui/poo/exceptions/NegocioException.class
+br/unipar/pet/dogui/poo/domain/Cachorro.class
